@@ -65,7 +65,7 @@ class _TodoAppPageState extends State<TodoAppPage> {
                     fontStyle:  FontStyle.italic,
                       fontSize: 25)
               ),
-              showTaskList(),
+              Expanded(child: showTaskList(),)
               ],
           ),
         ),
