@@ -1,6 +1,6 @@
-# todoapp
+# TODO app
 
-A new Flutter project.
+A simple mobile app using flutter framework.
 
 ## Getting Started
 
